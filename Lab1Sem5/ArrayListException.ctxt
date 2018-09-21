@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrayListException
+comment0.text=\r\n\ @author\ NAME\:\ Fathiah\ Husna\ Binti\ Firdaus\r\n\ @version\ DATE\:\ 14th\ September\ 2018\r\n\ ID\:\ 2016647044\r\n\ GROUP\:\ CS2305A\r\n\ TITLE\:\ Lab\ Exercise\ 1\ \:\:\ CSC508\r\n
+comment1.params=msg
+comment1.target=ArrayListException(java.lang.String)
+numComments=2

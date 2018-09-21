@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShuffleArray
+comment1.params=a
+comment1.target=void\ shuffleArray(int[])
+comment2.params=a\ i\ change
+comment2.target=void\ swap(int[],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

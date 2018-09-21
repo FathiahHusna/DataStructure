@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestApp
+comment0.text=\r\n\ @author\ NAME\:\ Fathiah\ Husna\ Binti\ Firdaus\r\n\ @version\ DATE\:\ 14th\ September\ 2018\r\n\ ID\:\ 2016647044\r\n\ GROUP\:\ CS2305A\r\n\ TITLE\:\ Lab\ Exercise\ 1\ \:\:\ CSC508\r\n
+comment1.params=
+comment1.target=void\ get()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
